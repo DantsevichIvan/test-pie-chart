@@ -1,0 +1,24 @@
+.wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.btn{
+    margin: 50px 10px;
+    width: 100px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.form input{
+    margin: 0 10px;
+}
+.inputNumber{
+    width: 50px;
+}
+.value span{
+    padding: 0 10px;
+}

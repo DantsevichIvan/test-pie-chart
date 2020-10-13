@@ -1,0 +1,23 @@
+.wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.listLinks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+.listLinks a{
+    padding: 5px 15px;
+    color: #282c34;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.listLinks a:hover{
+    text-decoration: underline;
+    transition: 0.5s;
+    color: red;
+}
